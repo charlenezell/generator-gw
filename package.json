@@ -1,12 +1,12 @@
 {
   "name": "generator-zw",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "quick gen projects",
   "homepage": "",
   "author": {
-    "name": "z.w",
+    "name": "charlenezell",
     "email": "charlenezell@gmail.com",
-    "url": ""
+    "url": "https://github.com/charlenezell/"
   },
   "files": [
     "generators"
