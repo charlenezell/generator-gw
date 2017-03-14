@@ -44,7 +44,7 @@
       "mocha": true
     }
   },
-  "repository": "charlenezell/generator-zw",
+  "repository": "https://github.com/charlenezell/generator-zw",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
